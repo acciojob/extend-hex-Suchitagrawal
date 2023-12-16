@@ -1,6 +1,6 @@
 const extendHex = (shortHex) => {
   // write your code here
-	let i = shortHex.length-3, iscapital = false;
+	let i = shortHex.length-3, isCapital = false;
 	let output = "#";
 	while(i<shortHex.length)
 		{
